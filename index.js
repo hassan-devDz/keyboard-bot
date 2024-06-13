@@ -1,7 +1,7 @@
 
 const { Telegraf, Markup, Scenes, session } = require("telegraf");
 const { BaseScene, Stage } = Scenes;
-const token = "6836807647:AAFSyuczbQECMvA40DVXzoObUwEQ-fmz2gY";
+const token = "6836807647:AAHc0okqytobOSaz0gBITjEFRjGHMA4qM6g";
 if (token === undefined) {
   throw new Error("BOT_TOKEN must be provided!");
 }
